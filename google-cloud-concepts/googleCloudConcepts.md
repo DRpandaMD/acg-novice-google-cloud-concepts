@@ -1,5 +1,7 @@
 # Google Cloud Concepts
 
+[Home](/README.md)
+
 ## Compute Engine
 
 * compute engine
@@ -39,3 +41,5 @@
 ## Google Global Infrastructure
 
 * [Location Map](https://cloud.google.com/about/locations#regions)
+
+[Home](/README.md)
